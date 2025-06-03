@@ -26,7 +26,7 @@ function App() {
 
   const numberClickHandler = (value) => {
     setCalc((prevCalc) => {
-      if (prevCalc.num.length >= 16) return prevCalc;
+      if (prevCalc.num.length >= 14) return prevCalc;
   
       return {
         ...prevCalc,

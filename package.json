@@ -1,5 +1,6 @@
 {
-  "name": "calculator-new",
+  "name": "calculator",
+  "homepage": "https://aarushic001403.github.io/Calculator",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -12,7 +13,6 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://github.com/AarushiC001403/Calculator.git",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
